@@ -43,7 +43,7 @@ MOBILE VIEW
    ```bash
    git clone https://github.com/yourusername/cms-contact-manager.git
    cd cms-contact-manager
-````
+   ```
 
 2. **Import the database**
 

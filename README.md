@@ -1,8 +1,3 @@
-Here’s a clean and professional `README.md` file tailored for your **Contact Management System (CMS)** project:
-
----
-
-````markdown
 # 📇 CMS - Contact Management System
 
 A **responsive and elegant Contact Management System (CMS)** built with **PHP**, **Tailwind CSS**, and **MySQL**. It allows users to **add, edit, delete**, and **search** contacts through a clean, intuitive interface.
@@ -23,8 +18,12 @@ Currently designed for **single-user** operation — multi-user support is plann
 ---
 
 ## 📸 Screenshot
+DESKTOP VIEW
+![Screenshot From 2025-03-29 21-36-35](https://github.com/user-attachments/assets/bff3c38f-156c-4da8-b6a9-5be06f12574c)
+MOBILE VIEW
+![Screenshot From 2025-03-29 21-38-06](https://github.com/user-attachments/assets/3209240c-a640-4f6b-99cd-5b33b290ecc1)
+![Screenshot From 2025-03-29 22-07-37](https://github.com/user-attachments/assets/4da6d81c-b457-4016-a231-2ab9176e7c62)
 
-> Add a screenshot of your CMS UI here to give users a preview.
 
 ---
 
